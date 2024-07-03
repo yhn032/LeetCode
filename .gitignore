@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+LeetCode/.idea/
+LeetCode/.gradle/
+LeetCode/gradle/wrapper/gradle-wrapper.properties
+LeetCode/build.gradle
+LeetCode/gradlew
+LeetCode/gradlew.bat
+LeetCode/settings.gradle
