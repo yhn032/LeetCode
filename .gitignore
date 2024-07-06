@@ -24,6 +24,7 @@ hs_err_pid*
 replay_pid*
 
 LeetCode/.idea/
+LeetCode/*.iml/
 LeetCode/.gradle/
 LeetCode/gradle/wrapper/gradle-wrapper.properties
 LeetCode/build.gradle
@@ -31,3 +32,4 @@ LeetCode/gradlew
 LeetCode/gradlew.bat
 LeetCode/settings.gradle
 LeetCode/build/
+LeetCode/LeetCode.iml
