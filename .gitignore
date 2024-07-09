@@ -33,3 +33,4 @@ LeetCode/gradlew.bat
 LeetCode/settings.gradle
 LeetCode/build/
 LeetCode/LeetCode.iml
+*.iml
