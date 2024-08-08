@@ -36,3 +36,4 @@ LeetCode/LeetCode.iml
 *.iml
 LeetCode/src/main/leetPy/LeetCode75/EssentialMath.py
 LeetCode/src/main/java/LeetCode75/EssentialMath.java
+.idea/
